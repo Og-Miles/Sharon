@@ -522,7 +522,7 @@ function DigitalCard() {
                                                 lineNumber: 238,
                                                 columnNumber: 17
                                             }, this),
-                                            "Miles"
+                                            "Miles."
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/app/page.tsx",

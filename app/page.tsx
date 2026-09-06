@@ -236,7 +236,7 @@ export default function DigitalCard() {
               >
                 With love,
                 <br />
-                Miles
+                Miles.
               </p>
             </div>
           </div>
