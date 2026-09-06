@@ -506,7 +506,7 @@ function DigitalCard() {
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                        className: "mt-3 text-xs leading-7 text-black/60",
+                                        className: "mt-3 text-[5px] leading-7 text-black/60",
                                         children: "P.S I might have been keeping a little secret. You’ll find out soon enough."
                                     }, void 0, false, {
                                         fileName: "[project]/app/page.tsx",
@@ -514,7 +514,7 @@ function DigitalCard() {
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                        className: `${__TURBOPACK__imported__module__$5b$next$5d2f$internal$2f$font$2f$google$2f$dancing_script_369b5631$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"].className} mt-3 text-base text-black/60`,
+                                        className: `${__TURBOPACK__imported__module__$5b$next$5d2f$internal$2f$font$2f$google$2f$dancing_script_369b5631$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"].className} mt-3 text-xs text-black/60`,
                                         children: [
                                             "With love,",
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
