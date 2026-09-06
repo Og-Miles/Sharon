@@ -226,7 +226,7 @@ export default function DigitalCard() {
                 Happy Birthday, Princess Sharon 💕
               </h2>
 
-              <p className='mt-3 text-[5px] leading-7 text-black/60'>
+              <p className='mt-3 text-[5px] leading-7 text-black/60 font-bold'>
                 P.S I might have been keeping a little secret. You’ll find out
                 soon enough.
               </p>
